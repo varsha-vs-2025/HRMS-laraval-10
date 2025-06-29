@@ -33,8 +33,6 @@ You can log into the application with this credentials (if you did the database 
 **Dashboard Screen**
 ![Dashboard Screen](./documentation-images/Dashboard.png)
 
-**Employee List Screen**
-![Employee List Screen](./documentation-images/Employee%20List.png)
 
 **Employee Leaves Screen**
 ![Employee Leaves Screen](./documentation-images/Employees%20Leaves.png)
